@@ -1,0 +1,29 @@
+.container{
+  padding: 50px;
+  }
+
+.satu{
+  margin: 0 auto;
+  padding: 50px;
+  width: 200px;
+  height: 200px;
+  background-color: rgb(39, 144, 53);
+  border: 40px solid transparent;
+  border-image: url(hearts.png) round;
+  border-image-outset: 40px;
+  border-image-slice: 34%;
+  box-shadow: 25px 25px black;
+}
+.dua{
+  margin: 0 auto;
+  padding: 50px;
+  width: 200px;
+  height: 200px;
+  background-color: rgb(39, 90, 144);
+  border: 40px solid transparent;
+  border-image: url(border1.png) round;
+  border-image-outset: 22px;
+  border-image-slice: 34%;
+  box-shadow: 12px 12px 20px rgb(23, 23, 23);
+
+}
